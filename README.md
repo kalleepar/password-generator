@@ -1,4 +1,4 @@
-### <Password Generator>
+# <Password Generator>
 
 ## Description
 
@@ -15,12 +15,10 @@ No installation necessary!
     -begin with entering youre desired amount of chracters for password.
     -complete additional questions to specify the parameters of password.
 
-![plot](./Develop/images/password-generator-sample.jpg)
 ![Alt text](https://github.com/kalleepar/password-generator/blob/main/Develop/images/password-generator-sample.jpg)
-![plot](./Develop/images/password-generator-sample2.jpg)
 ![Alt text](https://github.com/kalleepar/password-generator/blob/main/Develop/images/password-generator-sample2.jpg)
 
-# Link to website!
+## Link to website!
 https://kalleepar.github.io/password-generator/
 
 ## Credits
