@@ -1,4 +1,4 @@
-# # <Password Generator>
+### <Password Generator>
 
 ## Description
 
@@ -19,6 +19,9 @@ No installation necessary!
 ![Alt text](https://github.com/kalleepar/password-generator/blob/main/Develop/images/password-generator-sample.jpg)
 ![plot](./Develop/images/password-generator-sample2.jpg)
 ![Alt text](https://github.com/kalleepar/password-generator/blob/main/Develop/images/password-generator-sample2.jpg)
+
+# Link to website!
+https://kalleepar.github.io/password-generator/
 
 ## Credits
 
