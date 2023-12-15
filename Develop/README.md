@@ -15,7 +15,11 @@ No installation necessary!
     -begin with entering youre desired amount of chracters for password.
     -complete additional questions to specify the parameters of password.
 
-file:///C:/Users/Me/Desktop/codinghomework/Module_Challenge_2/index.html
+![plot](./Develop/images/password-generator-sample.jpg)
+![Alt text](https://github.com/kalleepar/password-generator/blob/main/Develop/images/password-generator-sample.jpg)
+![plot](./Develop/images/password-generator-sample2.jpg)
+![Alt text](https://github.com/kalleepar/password-generator/blob/main/Develop/images/password-generator-sample2.jpg)
+
 ## Credits
 
 - Kal Parker
